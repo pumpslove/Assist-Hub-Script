@@ -1,10 +1,10 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro2/main/ui2"))()
         Settings = {
         rewrittenmain = {
-        Enabled = true,
+        Enabled = false,
         Key = "q",
-        DOT = true,
-        AIRSHOT = true,
+        DOT = false,
+        AIRSHOT = false,
         NOTIF = false,
         FOV = math.huge,
     }
