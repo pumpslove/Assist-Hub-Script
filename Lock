@@ -3,8 +3,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhon
         rewrittenmain = {
         Enabled = false,
         Key = "q",
-        DOT = false,
-        AIRSHOT = false,
+        DOT = true,
+        AIRSHOT = true,
         NOTIF = false,
         FOV = math.huge,
     }
